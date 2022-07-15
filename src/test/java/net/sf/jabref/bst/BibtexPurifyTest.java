@@ -3,6 +3,8 @@ package net.sf.jabref.bst;
 import org.junit.Assert;
 import org.junit.Test;
 
+import net.sf.jabref.logic.bst.BibtexPurify;
+
 public class BibtexPurifyTest {
 
     @Test

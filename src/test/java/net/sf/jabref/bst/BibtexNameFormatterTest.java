@@ -1,5 +1,6 @@
 package net.sf.jabref.bst;
 
+import net.sf.jabref.logic.bst.BibtexNameFormatter;
 import net.sf.jabref.model.entry.AuthorList;
 
 import org.junit.Assert;

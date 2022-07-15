@@ -9,10 +9,12 @@ import java.util.List;
 
 import net.sf.jabref.Globals;
 import net.sf.jabref.JabRefPreferences;
-import net.sf.jabref.bst.VM.BstEntry;
-import net.sf.jabref.bst.VM.StackFunction;
 import net.sf.jabref.importer.ParserResult;
 import net.sf.jabref.importer.fileformat.BibtexParser;
+import net.sf.jabref.logic.bst.VM;
+import net.sf.jabref.logic.bst.VMException;
+import net.sf.jabref.logic.bst.VM.BstEntry;
+import net.sf.jabref.logic.bst.VM.StackFunction;
 import net.sf.jabref.model.entry.BibEntry;
 
 import org.antlr.runtime.RecognitionException;

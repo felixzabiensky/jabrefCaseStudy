@@ -3,6 +3,8 @@ package net.sf.jabref.bst;
 import org.junit.Assert;
 import org.junit.Test;
 
+import net.sf.jabref.logic.bst.BibtexWidth;
+
 /**
  * How to create these test using Bibtex:
  * <p/>
